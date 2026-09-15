@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mdabidurrahman-cse/mdabidurrahman-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Md. Abidur Rahman**, a CSE student interested in programming and problem solving.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- C Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Improve my programming skills
+- Build meaningful projects
+- Explore Software Development and AI
+- Prepare for higher studies abroad
+
+## 🛠️ Skills
+- C
+- Git & GitHub
+- Problem Solving
+
+## 📌 Currently Working On
+Building my programming fundamentals through practice and small projects.
+
+## 📫 Contact
+Email: mdabidurrahman.cse@gmail.com
